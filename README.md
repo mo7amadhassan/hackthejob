@@ -6,8 +6,8 @@
 
 HackTheJob is the ultimate automation engine for job seekers. It's a local, privacy-first desktop application designed to handle the repetitive, boring parts of job hunting so you can focus on interviews and offers.
 
-![HackTheJob Dashboard](https://github.com/user-attachments/assets/placeholder-image) 
-*(Note: Replace with actual screenshot URL if available)*
+<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/2a017396-21b2-4ab5-ac46-fd8383b6e41d" />
+
 
 ---
 
